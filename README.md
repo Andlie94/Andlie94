@@ -16,6 +16,7 @@
 - CSS
 - Javascript
 -  React
+-  Next.js
   
 💞️ I’m looking to collaborate on
 - Open-source web development projects
