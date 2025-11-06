@@ -2,8 +2,6 @@
   
 + I’m a developer with a focus on Frontend webdevelopment and app development. I love creating websites that stand out, as it challenges me with design, CSS, and JavaScript.  
 
-+ I’m also about to learning React and currently working on a project based on it. If you follow me, you can track the progress of this project!
-
 👀 I’m interested in:
 - Web development (especially frontend)
 - App development
